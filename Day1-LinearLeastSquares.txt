@@ -1,0 +1,17 @@
+2 types.  Regression (ex. predict height based on weight of person)
+          Classification (is pic a dog or cat)
+
+To View github notebook download Anaconda.
+Python is number 1 language for machine learning stuff
+Jupyter.org for viewing his notebooks.
+
+Linear Least Squares Regression, predicting y value given x value.
+
+Unexplained variance is called noise (factors effecting price other than height of skyscraper)
+
+common way to assess error is SSE. Sum of Squares Error.  Using squared error is better if we think noise is evenly distributed.
+((Theta0 + Theta1*x) - y)^2.   Theta0 is like b and Theta1 is like m in y = mx+b
+
+Common output is average SSE. so divide by number of data points.
+
+Machine Learning is just like statistics. lol. Using software to do these computations, how can software work on large datasets.  
